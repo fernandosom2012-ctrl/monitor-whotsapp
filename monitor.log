@@ -1,0 +1,855 @@
+2026-05-01 12:04:49,249 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:04:49,250 [INFO] Iniciando Chrome…
+2026-05-01 12:04:49,253 [INFO] ====== WebDriver manager ======
+2026-05-01 12:04:51,988 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 12:04:53,746 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 12:04:55,113 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 12:06:44,478 [INFO] WebDriver version 147.0.7727.117 selected
+2026-05-01 12:06:44,496 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-01 12:06:44,497 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/win32/chromedriver-win32.zip
+2026-05-01 12:06:45,853 [INFO] Driver downloading response is 200
+2026-05-01 12:06:47,953 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 12:06:49,675 [INFO] Driver has been saved in cache [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117]
+2026-05-01 12:06:53,284 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:07:45,879 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:07:45,879 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:08:06,277 [ERROR] Grupo '🟣 CHAMADOS T.I HRJL' não encontrado. Verifique o nome em config.py
+2026-05-01 12:08:12,817 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53648): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/8952bd8372aee5fa2c82a1b711b47fa3
+2026-05-01 12:08:16,927 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53648): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/8952bd8372aee5fa2c82a1b711b47fa3
+2026-05-01 12:08:20,997 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53648): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/8952bd8372aee5fa2c82a1b711b47fa3
+2026-05-01 12:08:25,100 [INFO] Script finalizado.
+2026-05-01 12:08:45,772 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:08:45,773 [INFO] Iniciando Chrome…
+2026-05-01 12:08:45,775 [INFO] ====== WebDriver manager ======
+2026-05-01 12:08:48,490 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 12:10:17,627 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:10:17,627 [INFO] Iniciando Chrome…
+2026-05-01 12:10:17,659 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:10:20,767 [WARNING] Falha ao iniciar com ChromeDriver local: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+2026-05-01 12:10:20,768 [INFO] Buscando ChromeDriver automaticamente...
+2026-05-01 12:10:20,768 [INFO] ====== WebDriver manager ======
+2026-05-01 12:10:23,636 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 12:11:44,330 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:11:44,330 [INFO] Iniciando Chrome…
+2026-05-01 12:11:44,362 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:12:24,494 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:12:24,495 [INFO] Iniciando Chrome…
+2026-05-01 12:12:24,526 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:12:26,349 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:12:39,111 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:12:39,178 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:12:59,699 [ERROR] Grupo '🟣 CHAMADOS T.I HRJL' não encontrado. Verifique o nome em config.py
+2026-05-01 12:13:06,247 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49638): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/12f7fbc39c5a5a611a93950f56281307
+2026-05-01 12:13:10,317 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49638): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/12f7fbc39c5a5a611a93950f56281307
+2026-05-01 12:13:14,383 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49638): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/12f7fbc39c5a5a611a93950f56281307
+2026-05-01 12:16:11,470 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:16:11,472 [INFO] Iniciando Chrome…
+2026-05-01 12:16:11,501 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:16:13,308 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:16:23,585 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:16:23,585 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:16:29,738 [INFO] ✅ Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 12:35:59,916 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:35:59,916 [INFO] Iniciando Chrome…
+2026-05-01 12:35:59,946 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:36:01,817 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:36:14,628 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:36:14,629 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:36:18,702 [INFO] ✅ Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 12:41:58,703 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:41:58,704 [INFO] Iniciando Chrome…
+2026-05-01 12:41:58,737 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:42:00,644 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:42:10,928 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:42:10,928 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:42:14,955 [INFO] ✅ Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 12:50:59,771 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:50:59,772 [INFO] Iniciando Chrome…
+2026-05-01 12:50:59,809 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:51:01,459 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:51:11,236 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:51:11,237 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:51:14,776 [INFO] ✅ Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 12:56:41,282 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 12:56:41,283 [INFO] Iniciando Chrome…
+2026-05-01 12:56:41,311 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 12:56:43,073 [INFO] Aguardando login no WhatsApp Web (escaneie o QR Code)…
+2026-05-01 12:56:52,666 [INFO] ✅ Login realizado com sucesso!
+2026-05-01 12:56:52,666 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 12:56:57,561 [INFO] ✅ Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 12:56:57,814 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-01 13:08:23,486 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:08:23,487 [INFO] Iniciando Chrome...
+2026-05-01 13:08:23,522 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:08:25,425 [INFO] Aguardando login no WhatsApp Web...
+2026-05-01 13:08:36,376 [INFO] Login realizado com sucesso.
+2026-05-01 13:08:36,377 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 13:08:42,134 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 13:09:38,482 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:09:38,483 [INFO] Iniciando Chrome...
+2026-05-01 13:09:38,518 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:09:40,395 [INFO] Aguardando login no WhatsApp Web...
+2026-05-01 13:09:56,691 [INFO] Login realizado com sucesso.
+2026-05-01 13:09:56,691 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 13:10:01,676 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 13:17:15,321 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:17:15,322 [INFO] Iniciando Chrome...
+2026-05-01 13:17:15,358 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:17:17,123 [INFO] Aguardando login no WhatsApp Web...
+2026-05-01 13:17:26,872 [INFO] Login realizado com sucesso.
+2026-05-01 13:17:26,872 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 13:17:30,491 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 13:17:32,159 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-01 13:17:32,160 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-01 13:17:54,997 [INFO] Chamado registrado: CH-2026-0001 | Impressora sem sair impressões
+2026-05-01 13:18:27,398 [INFO] Chamado registrado: CH-2026-0002 | Impressora de etiquetas com impressões fracas
+2026-05-01 13:28:57,586 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:28:57,586 [INFO] Iniciando Chrome...
+2026-05-01 13:28:57,616 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:29:00,614 [WARNING] Falha ao iniciar com ChromeDriver local: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+2026-05-01 13:29:00,615 [INFO] Buscando ChromeDriver automaticamente...
+2026-05-01 13:29:00,616 [INFO] ====== WebDriver manager ======
+2026-05-01 13:29:03,364 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 13:29:04,793 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 13:29:06,158 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-01 13:29:08,982 [ERROR] Falha na execucao do monitor: Nao foi possivel iniciar o ChromeDriver. Verifique a conexao com a internet ou configure chromedriver_path.
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 263, in iniciar_browser
+    self.driver = webdriver.Chrome(service=service, options=opts)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 271, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 475, in executar
+    self.iniciar_browser()
+  File "C:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 265, in iniciar_browser
+    raise RuntimeError(
+RuntimeError: Nao foi possivel iniciar o ChromeDriver. Verifique a conexao com a internet ou configure chromedriver_path.
+2026-05-01 13:29:09,034 [INFO] Script finalizado.
+2026-05-01 13:40:39,591 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-01 13:40:39,598 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/9b29685fbb1ebf207c2960dd0a3525ba
+2026-05-01 13:40:43,655 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61779): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/9b29685fbb1ebf207c2960dd0a3525ba
+2026-05-01 13:40:47,701 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61779): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/9b29685fbb1ebf207c2960dd0a3525ba
+2026-05-01 13:40:51,819 [INFO] Script finalizado.
+2026-05-01 13:40:59,529 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:40:59,530 [INFO] Iniciando Chrome...
+2026-05-01 13:40:59,566 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:41:02,479 [WARNING] Falha ao iniciar com ChromeDriver local: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+2026-05-01 13:41:02,480 [INFO] Buscando ChromeDriver automaticamente...
+2026-05-01 13:41:02,481 [INFO] ====== WebDriver manager ======
+2026-05-01 13:41:05,116 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 13:41:06,603 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 13:41:07,901 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-01 13:41:10,718 [ERROR] Falha na execucao do monitor: Nao foi possivel iniciar o ChromeDriver. Verifique a conexao com a internet ou configure chromedriver_path.
+Traceback (most recent call last):
+  File "c:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 263, in iniciar_browser
+    self.driver = webdriver.Chrome(service=service, options=opts)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 271, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 475, in executar
+    self.iniciar_browser()
+  File "c:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 265, in iniciar_browser
+    raise RuntimeError(
+RuntimeError: Nao foi possivel iniciar o ChromeDriver. Verifique a conexao com a internet ou configure chromedriver_path.
+2026-05-01 13:41:10,765 [INFO] Script finalizado.
+2026-05-01 13:41:24,929 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:41:24,930 [INFO] Iniciando Chrome...
+2026-05-01 13:41:24,966 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:41:27,850 [WARNING] Falha ao iniciar com ChromeDriver local: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+2026-05-01 13:41:27,851 [INFO] Buscando ChromeDriver automaticamente...
+2026-05-01 13:41:27,853 [INFO] ====== WebDriver manager ======
+2026-05-01 13:41:30,500 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 13:41:31,836 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-01 13:41:33,330 [INFO] Driver [C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-01 13:41:36,147 [ERROR] Falha na execucao do monitor: Nao foi possivel iniciar o ChromeDriver. Verifique a conexao com a internet ou configure chromedriver_path.
+Traceback (most recent call last):
+  File "c:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 263, in iniciar_browser
+    self.driver = webdriver.Chrome(service=service, options=opts)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 271, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 366, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75b373+10553]
+	chromedriver!GetHandleVerifier [0x75b4a4+10684]
+	chromedriver!(No symbol) [0x561e10]
+	chromedriver!(No symbol) [0x5975cb]
+	chromedriver!(No symbol) [0x592480]
+	chromedriver!(No symbol) [0x5d956f]
+	chromedriver!(No symbol) [0x5d8d87]
+	chromedriver!(No symbol) [0x5cd606]
+	chromedriver!(No symbol) [0x5a0039]
+	chromedriver!(No symbol) [0x5a0df4]
+	chromedriver!GetHandleVerifier [0x9dddb4+292f94]
+	chromedriver!GetHandleVerifier [0x9d937d+28e55d]
+	chromedriver!GetHandleVerifier [0x9f8215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x774c18+29df8]
+	chromedriver!GetHandleVerifier [0x77c6fd+318dd]
+	chromedriver!GetHandleVerifier [0x763c78+18e58]
+	chromedriver!GetHandleVerifier [0x763e42+19022]
+	chromedriver!GetHandleVerifier [0x74d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x76035d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 475, in executar
+    self.iniciar_browser()
+  File "c:\Users\Lenovo\Downloads\whatsapp_monitor (1)\monitor.py", line 265, in iniciar_browser
+    raise RuntimeError(
+RuntimeError: Nao foi possivel iniciar o ChromeDriver. Verifique a conexao com a internet ou configure chromedriver_path.
+2026-05-01 13:41:36,194 [INFO] Script finalizado.
+2026-05-01 13:41:47,469 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 13:41:47,470 [INFO] Iniciando Chrome...
+2026-05-01 13:41:47,504 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 13:41:49,194 [INFO] Aguardando login no WhatsApp Web...
+2026-05-01 13:41:58,184 [INFO] Login realizado com sucesso.
+2026-05-01 13:41:58,185 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 13:42:03,780 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 13:42:05,204 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-01 13:42:05,205 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-01 14:27:28,702 [INFO] Chamado registrado: CH-2026-0003 | Colocar senha em celular de funcionária
+2026-05-01 14:58:13,755 [ERROR] Erro no loop principal: [Errno 13] Permission denied: 'chamados.xlsx'
+2026-05-01 15:16:07,234 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-01 15:16:07,241 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/5ced750a53a8be70a1b4f79d6a8e25f9
+2026-05-01 15:16:11,292 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59443): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente")': /session/5ced750a53a8be70a1b4f79d6a8e25f9
+2026-05-01 15:16:38,837 [INFO] Planilha pronta: chamados.xlsx
+2026-05-01 15:16:38,838 [INFO] Iniciando Chrome...
+2026-05-01 15:16:38,874 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-01 15:16:40,591 [INFO] Aguardando login no WhatsApp Web...
+2026-05-01 15:16:50,811 [INFO] Login realizado com sucesso.
+2026-05-01 15:16:50,811 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-01 15:16:55,786 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-01 15:16:55,933 [INFO] Mensagens iniciais sincronizadas: 1
+2026-05-01 15:16:55,934 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-01 15:17:07,557 [INFO] Chamado registrado: CH-2026-0004 | Sem internet nos computadores
+2026-05-01 15:17:07,624 [INFO] Chamado registrado: CH-2026-0005 | Sem internet no setor
+2026-05-01 15:17:07,687 [INFO] Chamado registrado: CH-2026-0006 | O som para chamar os pacientes do SPA, está saindo no P.A Pe
+2026-05-01 15:17:07,751 [INFO] Chamado registrado: CH-2026-0007 | Impressora não imprime
+2026-05-01 15:17:07,819 [INFO] Chamado registrado: CH-2026-0008 | Mousse do computador 3 da pediatria descontrolado
+2026-05-01 15:17:07,894 [INFO] Chamado registrado: CH-2026-0009 | Problema no computador
+2026-05-01 15:29:02,298 [INFO] Chamado registrado: CH-2026-0010 | impressora de etiquetas
+2026-05-01 15:56:24,140 [INFO] Chamado registrado: CH-2026-0011 | conectar celular no wifi
+2026-05-01 16:53:58,809 [INFO] Chamado registrado: CH-2026-0012 | Obstrução de papel na impressora
+2026-05-01 17:30:50,367 [INFO] Chamado registrado: CH-2026-0013 | Obstrução de papel na impressora
+2026-05-01 18:18:46,181 [INFO] Chamado registrado: CH-2026-0014 | Obstrução de papel na impressora
+2026-05-01 18:47:41,318 [INFO] Chamado registrado: CH-2026-0015 | Problema na planilha
+2026-05-01 18:53:58,366 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-01 18:53:58,377 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/40ed9dd1c52d028c679653bec2eb5e3a
+2026-05-03 07:59:44,752 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 07:59:44,753 [INFO] Iniciando Chrome...
+2026-05-03 07:59:44,769 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 07:59:47,463 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 08:00:11,693 [INFO] Login realizado com sucesso.
+2026-05-03 08:00:11,694 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 08:00:16,170 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 08:00:16,788 [INFO] Mensagens iniciais sincronizadas: 14
+2026-05-03 08:00:16,788 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 08:21:50,901 [INFO] Chamado registrado: CH-2026-0016 | problema no salutem
+2026-05-03 08:25:33,129 [INFO] Chamado registrado: CH-2026-0017 | Data: 03/05/2026 Solicitante: Elismaria Setor: PA.PED Priori
+2026-05-03 08:26:13,599 [INFO] Chamado registrado: CH-2026-0018 | impressora não funciona
+2026-05-03 09:00:34,753 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-03 09:00:34,757 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/1885609371e5a5f19fe897302903065b
+2026-05-03 09:14:59,894 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 09:14:59,895 [INFO] Iniciando Chrome...
+2026-05-03 09:14:59,910 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 09:15:01,435 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 09:15:07,948 [INFO] Login realizado com sucesso.
+2026-05-03 09:15:07,948 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 09:15:10,831 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 09:15:14,708 [INFO] Mensagens iniciais sincronizadas: 52
+2026-05-03 09:15:14,708 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 09:15:54,874 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-03 09:15:54,878 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/3c5fb92c9243a55be372a3fd378a9f15
+2026-05-03 09:18:03,277 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 09:18:03,278 [INFO] Iniciando Chrome...
+2026-05-03 09:18:03,289 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 09:18:04,702 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 09:18:10,774 [INFO] Login realizado com sucesso.
+2026-05-03 09:18:10,775 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 09:18:14,273 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 09:18:14,384 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-03 09:18:14,384 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 09:39:17,300 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-03 09:39:17,303 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/58e8ac8d3463219395e1e4083624462d
+2026-05-03 09:39:46,700 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 09:39:46,701 [INFO] Iniciando Chrome...
+2026-05-03 09:39:46,713 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 09:39:48,202 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 09:39:54,456 [INFO] Login realizado com sucesso.
+2026-05-03 09:39:54,456 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 09:39:57,933 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 09:39:58,042 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-03 09:39:58,042 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 09:43:40,462 [INFO] Chamado registrado: CH-2026-0019 | atualizar acesso para transferência do farmacêutico
+2026-05-03 10:53:40,378 [WARNING] Erro ao ler mensagens: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=147.0.7727.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x10ab373+10553]
+	chromedriver!GetHandleVerifier [0x10ab4a4+10684]
+	chromedriver!(No symbol) [0xeb1e10]
+	chromedriver!(No symbol) [0xea0d8e]
+	chromedriver!(No symbol) [0xebf8d9]
+	chromedriver!(No symbol) [0xf23dbc]
+	chromedriver!(No symbol) [0xf3a3a9]
+	chromedriver!(No symbol) [0xf1d606]
+	chromedriver!(No symbol) [0xef0039]
+	chromedriver!(No symbol) [0xef0df4]
+	chromedriver!GetHandleVerifier [0x132ddb4+292f94]
+	chromedriver!GetHandleVerifier [0x132937d+28e55d]
+	chromedriver!GetHandleVerifier [0x1348215+2ad3f5]
+	chromedriver!GetHandleVerifier [0x10c4c18+29df8]
+	chromedriver!GetHandleVerifier [0x10cc6fd+318dd]
+	chromedriver!GetHandleVerifier [0x10b3c78+18e58]
+	chromedriver!GetHandleVerifier [0x10b3e42+19022]
+	chromedriver!GetHandleVerifier [0x109d45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x75355d49+19]
+	ntdll!RtlInitializeExceptionChain [0x771dd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x771dd7c1+231]
+
+2026-05-03 10:53:42,951 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-03 10:53:42,955 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/10dd5100e6d5515211f0fb87562f2411
+2026-05-03 10:54:07,057 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 10:54:07,057 [INFO] Iniciando Chrome...
+2026-05-03 10:54:07,069 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 10:54:08,518 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 10:54:14,806 [INFO] Login realizado com sucesso.
+2026-05-03 10:54:14,806 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 10:54:18,598 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 10:54:18,734 [INFO] Mensagens iniciais sincronizadas: 14
+2026-05-03 10:54:18,735 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 10:54:49,278 [INFO] Chamado registrado: CH-2026-0020 | Data: 03/05/2026 *Solicitante:*Luzanira *Setor:*Recepção SPA
+2026-05-03 10:56:46,042 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 10:56:46,043 [INFO] Iniciando Chrome...
+2026-05-03 10:56:46,055 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 10:56:47,447 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 10:56:53,633 [INFO] Login realizado com sucesso.
+2026-05-03 10:56:53,633 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 10:56:57,121 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 10:56:57,271 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-03 10:56:57,271 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 11:38:32,111 [INFO] Chamado registrado: CH-2026-0021 | Setor sem internet
+2026-05-03 11:38:32,146 [INFO] Chamado registrado: CH-2026-0022 | computador sen internet
+2026-05-03 11:38:42,331 [INFO] Chamado registrado: CH-2026-0023 | sem internet
+2026-05-03 12:11:54,991 [INFO] Chamado registrado: CH-2026-0024 | impressora não está imprimindo
+2026-05-03 17:34:14,215 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 17:34:14,215 [INFO] Iniciando Chrome...
+2026-05-03 17:34:14,227 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 17:34:15,641 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 17:35:13,245 [INFO] Login realizado com sucesso.
+2026-05-03 17:35:13,246 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-03 17:35:16,790 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-03 17:35:17,687 [INFO] Mensagens iniciais sincronizadas: 8
+2026-05-03 17:35:17,687 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 17:36:49,908 [INFO] Planilha pronta: chamados.xlsx
+2026-05-03 17:36:49,909 [INFO] Iniciando Chrome...
+2026-05-03 17:36:49,923 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-03 17:36:51,198 [INFO] Aguardando login no WhatsApp Web...
+2026-05-03 17:36:59,558 [INFO] Login realizado com sucesso.
+2026-05-03 17:36:59,558 [INFO] Abrindo grupo: Arquivos
+2026-05-03 17:37:02,707 [INFO] Grupo 'Arquivos' aberto.
+2026-05-03 17:37:02,798 [INFO] Mensagens iniciais sincronizadas: 1
+2026-05-03 17:37:02,799 [INFO] Monitorando grupo 'Arquivos' a cada 10s. Use Ctrl+C para parar.
+2026-05-03 17:37:44,012 [INFO] Chamado registrado: CH-2026-0025 | impressora não está imprimindo
+2026-05-03 17:38:04,755 [INFO] Chamado registrado: CH-2026-0026 | impressora não está imprimindo
+2026-05-03 17:41:20,936 [INFO] Chamado registrado: CH-2026-0027 | impressora não está imprimindo
+2026-05-03 17:41:51,248 [ERROR] Erro no loop principal: [Errno 13] Permission denied: 'chamados.xlsx'
+2026-05-03 17:42:26,878 [INFO] Chamado registrado: CH-2026-0028 | impressora não está imprimindo
+2026-05-04 15:34:43,163 [INFO] Planilha pronta: chamados.xlsx
+2026-05-04 15:34:43,165 [INFO] Iniciando Chrome...
+2026-05-04 15:34:43,181 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-04 15:34:45,349 [INFO] Aguardando login no WhatsApp Web...
+2026-05-04 15:35:04,582 [INFO] Login realizado com sucesso.
+2026-05-04 15:35:04,583 [INFO] Abrindo grupo: Arquivos
+2026-05-04 15:35:08,720 [INFO] Grupo 'Arquivos' aberto.
+2026-05-04 15:35:09,144 [INFO] Mensagens iniciais sincronizadas: 12
+2026-05-04 15:35:09,144 [INFO] Monitorando grupo 'Arquivos' a cada 10s. Use Ctrl+C para parar.
+2026-05-04 15:35:40,424 [INFO] Chamado registrado: CH-2026-0029 | problema na impressora
+2026-05-04 15:40:45,841 [INFO] Planilha pronta: chamados.xlsx
+2026-05-04 15:40:45,841 [INFO] Iniciando Chrome...
+2026-05-04 15:40:45,855 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-04 15:40:47,297 [INFO] Aguardando login no WhatsApp Web...
+2026-05-04 15:40:54,772 [INFO] Login realizado com sucesso.
+2026-05-04 15:40:54,774 [INFO] Abrindo grupo: Arquivos
+2026-05-04 15:40:57,606 [INFO] Grupo 'Arquivos' aberto.
+2026-05-04 15:40:58,410 [INFO] Mensagens iniciais sincronizadas: 12
+2026-05-04 15:40:58,411 [INFO] Monitorando grupo 'Arquivos' a cada 10s. Use Ctrl+C para parar.
+2026-05-04 15:41:59,152 [INFO] Chamado registrado: CH-2026-0001 | problema na impressora
+2026-05-04 15:42:59,726 [ERROR] Erro no loop principal: [Errno 13] Permission denied: 'chamados.xlsx'
+2026-05-04 15:43:25,075 [INFO] Chamado registrado: CH-2026-0002 | computadores sem internet
+2026-05-04 15:48:23,513 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-04 15:48:23,516 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/2a4f8e9defac098a5db9c2b6fb2e3c18
+2026-05-04 16:49:15,901 [INFO] Planilha pronta: chamados.xlsx
+2026-05-04 16:49:15,901 [INFO] Iniciando Chrome...
+2026-05-04 16:49:15,917 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-04 16:49:17,352 [INFO] Aguardando login no WhatsApp Web...
+2026-05-04 16:49:24,383 [INFO] Login realizado com sucesso.
+2026-05-04 16:49:24,384 [INFO] Abrindo grupo: Arquivos
+2026-05-04 16:49:27,529 [INFO] Grupo 'Arquivos' aberto.
+2026-05-04 16:49:28,020 [INFO] Mensagens iniciais sincronizadas: 14
+2026-05-04 16:49:28,020 [INFO] Monitorando grupo 'Arquivos' a cada 10s. Use Ctrl+C para parar.
+2026-05-04 16:50:18,710 [INFO] Chamado registrado: CH-2026-0003 | sem internet
+2026-05-04 17:21:00,910 [INFO] Chamado registrado: CH-2026-0004 | problema na impressoraEditada
+2026-05-04 17:21:00,943 [INFO] Chamado registrado: CH-2026-0005 | IMPRESSORA NÃO ESTA IMPRIMINDO
+2026-05-04 17:21:00,978 [INFO] Chamado registrado: CH-2026-0006 | TOTEM NÃO ESTA IMPRIMINDO
+2026-05-04 17:21:09,152 [INFO] Monitoramento encerrado pelo usuario.
+2026-05-04 17:21:09,157 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/994527dbccb7bbe82474d8992f318074
+2026-05-04 17:21:57,821 [INFO] Planilha pronta: chamados.xlsx
+2026-05-04 17:21:57,821 [INFO] Iniciando Chrome...
+2026-05-04 17:21:57,836 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-04 17:22:00,136 [INFO] Aguardando login no WhatsApp Web...
+2026-05-04 17:22:06,503 [INFO] Login realizado com sucesso.
+2026-05-04 17:22:06,505 [INFO] Abrindo grupo: CHAMADOS T.I HRJL
+2026-05-04 17:22:34,149 [ERROR] Falha na execucao do monitor: Grupo 'CHAMADOS T.I HRJL' nao encontrado. Verifique o nome em config.py.
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\Nova pasta\OFICIAL\monitor.py", line 479, in executar
+    self.abrir_grupo(self.config["nome_grupo"])
+  File "C:\Users\Lenovo\Desktop\Nova pasta\OFICIAL\monitor.py", line 327, in abrir_grupo
+    raise RuntimeError(f"Grupo '{nome_grupo}' nao encontrado. Verifique o nome em config.py.")
+RuntimeError: Grupo 'CHAMADOS T.I HRJL' nao encontrado. Verifique o nome em config.py.
+2026-05-04 17:22:36,464 [INFO] Script finalizado.
+2026-05-04 17:24:25,152 [INFO] Planilha pronta: chamados.xlsx
+2026-05-04 17:24:25,154 [INFO] Iniciando Chrome...
+2026-05-04 17:24:25,168 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-04 17:24:26,653 [INFO] Aguardando login no WhatsApp Web...
+2026-05-04 17:24:33,541 [INFO] Login realizado com sucesso.
+2026-05-04 17:24:33,541 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-04 17:24:37,690 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-04 17:24:37,864 [INFO] Mensagens iniciais sincronizadas: 19
+2026-05-04 17:24:37,864 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-04 18:50:01,028 [INFO] Chamado registrado: CH-2026-0007 | TOTEM NÃO ESTA IMPRIMINDO
+2026-05-05 07:15:26,327 [INFO] Planilha pronta: chamados.xlsx
+2026-05-05 07:15:26,328 [INFO] Iniciando Chrome...
+2026-05-05 07:15:26,336 [INFO] Usando ChromeDriver local: C:\Users\user\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-05 07:15:29,088 [INFO] Aguardando login no WhatsApp Web...
+2026-05-05 07:15:37,554 [INFO] Login realizado com sucesso.
+2026-05-05 07:15:37,559 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-05 07:15:42,350 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-05 07:15:44,216 [INFO] Mensagens iniciais sincronizadas: 9
+2026-05-05 07:15:44,218 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-05 07:15:51,101 [INFO] Chamado registrado: CH-2026-0001 | problema na impressoraEditada
+2026-05-05 07:15:51,133 [INFO] Chamado registrado: CH-2026-0002 | IMPRESSORA NÃO ESTA IMPRIMINDO
+2026-05-05 07:15:51,164 [INFO] Chamado registrado: CH-2026-0003 | TOTEM NÃO ESTA IMPRIMINDO
+2026-05-05 07:15:51,199 [INFO] Chamado registrado: CH-2026-0004 | TOTEM NÃO ESTA IMPRIMINDO
+2026-05-05 07:15:51,241 [INFO] Chamado registrado: CH-2026-0005 | Desbloqueio de usuária
+2026-05-05 07:15:51,281 [INFO] Chamado registrado: CH-2026-0006 | Impressora sem funcionar
+2026-05-05 07:15:51,316 [INFO] Chamado registrado: CH-2026-0007 | Office sem funcionar
+2026-05-05 07:41:00,386 [INFO] Chamado registrado: CH-2026-0008 | Impressora obstruindo
+2026-05-05 08:43:46,122 [INFO] Chamado registrado: CH-2026-0009 | Office sem funcionar
+2026-05-05 09:30:42,996 [INFO] Chamado registrado: CH-2026-0010 | Impressora obstruída
+2026-05-05 09:37:26,892 [INFO] Chamado registrado: CH-2026-0011 | Ramal não está funcionando
+2026-05-05 12:11:34,230 [INFO] Chamado registrado: CH-2026-0012 | Ramal não está funcionando e impressora não funciona
+2026-05-05 14:38:02,111 [INFO] Chamado registrado: CH-2026-0013 | impressora da sala de Tomografia sem tinta preta.
+2026-05-05 14:45:26,241 [INFO] Chamado registrado: CH-2026-0014 | totem
+2026-05-05 16:18:47,564 [INFO] Chamado registrado: CH-2026-0015 | impressora com defeito
+2026-05-05 17:05:13,205 [INFO] Chamado registrado: CH-2026-0016 | computador sem internet
+2026-05-07 10:13:08,795 [INFO] Planilha pronta: chamados.xlsx
+2026-05-07 10:13:08,796 [INFO] Iniciando Chrome...
+2026-05-07 10:13:08,802 [INFO] Usando ChromeDriver local: C:\Users\user\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-07 10:13:11,326 [INFO] Aguardando login no WhatsApp Web...
+2026-05-07 10:13:50,600 [INFO] Login realizado com sucesso.
+2026-05-07 10:13:50,608 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-07 10:13:54,679 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-07 10:13:56,379 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-07 10:13:56,380 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-07 10:14:39,198 [INFO] Chamado registrado: CH-2026-0017 | totem sem bobina
+2026-05-07 11:03:10,480 [INFO] Chamado registrado: CH-2026-0018 | impressora com problema
+2026-05-07 11:10:43,628 [INFO] Chamado registrado: CH-2026-0019 | sem
+2026-05-07 11:12:54,766 [INFO] Chamado registrado: CH-2026-0020 | impressora com problema
+2026-05-07 12:13:09,006 [INFO] Chamado registrado: CH-2026-0021 | sem internet
+2026-05-07 12:13:09,033 [INFO] Chamado registrado: CH-2026-0022 | setor sem internet
+2026-05-07 12:13:09,062 [INFO] Chamado registrado: CH-2026-0023 | sem internet
+2026-05-07 12:13:09,091 [INFO] Chamado registrado: CH-2026-0024 | sem Internet
+2026-05-07 12:13:09,123 [INFO] Chamado registrado: CH-2026-0025 | setor sem internet
+2026-05-07 12:13:09,152 [INFO] Chamado registrado: CH-2026-0026 | sem internet
+2026-05-07 12:13:09,185 [INFO] Chamado registrado: CH-2026-0027 | setor sem internet
+2026-05-07 12:13:09,217 [INFO] Chamado registrado: CH-2026-0028 | setor sem internet
+2026-05-07 12:13:09,247 [INFO] Chamado registrado: CH-2026-0029 | setor sem internet
+2026-05-07 12:13:09,277 [INFO] Chamado registrado: CH-2026-0030 | trocar o teclado
+2026-05-07 12:13:09,307 [INFO] Chamado registrado: CH-2026-0031 | Sem internet
+2026-05-07 12:13:09,338 [INFO] Chamado registrado: CH-2026-0032 | Setor sem internet
+2026-05-07 12:13:09,369 [INFO] Chamado registrado: CH-2026-0033 | Setor sem internet
+2026-05-07 12:13:09,400 [INFO] Chamado registrado: CH-2026-0034 | Setor sem internet
+2026-05-07 12:16:52,127 [INFO] Chamado registrado: CH-2026-0035 | sem internet
+2026-05-07 14:09:50,153 [INFO] Chamado registrado: CH-2026-0036 | sem internet
+2026-05-07 15:34:17,226 [INFO] Chamado registrado: CH-2026-0037 | IMPRESSORA SEM FUNCIONAR
+2026-05-07 16:37:03,893 [INFO] Chamado registrado: CH-2026-0038 | Totem
+2026-05-07 16:47:50,027 [INFO] Chamado registrado: CH-2026-0039 | Sem internet
+2026-05-07 17:40:50,301 [INFO] Chamado registrado: CH-2026-0040 | Sem internet
+2026-05-07 18:29:31,195 [INFO] Chamado registrado: CH-2026-0041 | impressora sem imprimir consultório médico 118:29
+2026-05-07 20:34:12,197 [INFO] Chamado registrado: CH-2026-0042 | impressora sem imprimir
+2026-05-07 23:53:51,654 [INFO] Chamado registrado: CH-2026-0043 | Profissionais sem acesso ao SALUTEM
+2026-05-07 23:55:22,477 [INFO] Chamado registrado: CH-2026-0044 | Profissionais sem acesso ao SALUTEM
+2026-05-07 23:57:43,682 [INFO] Chamado registrado: CH-2026-0045 | Profissionais sem acesso ao SALUTEM
+2026-05-07 23:58:54,427 [INFO] Chamado registrado: CH-2026-0046 | Profissionais sem acesso ao SALUTEM
+2026-05-07 23:59:34,823 [INFO] Chamado registrado: CH-2026-0047 | Computador sem internet
+2026-05-08 00:00:25,340 [INFO] Chamado registrado: CH-2026-0048 | Profissionais sem acesso ao SALUTEM
+2026-05-08 00:02:16,385 [INFO] Chamado registrado: CH-2026-0049 | Profissionais sem acesso ao SALUTEM
+2026-05-08 00:04:48,030 [INFO] Chamado registrado: CH-2026-0050 | Profissionais sem acesso ao SALUTEM
+2026-05-08 00:15:04,526 [INFO] Chamado registrado: CH-2026-0051 | Sem acesso a SALUTEM
+2026-05-08 02:58:56,774 [INFO] Chamado registrado: CH-2026-0052 | Sem acesso a SALUTEM
+2026-05-08 02:58:56,817 [INFO] Chamado registrado: CH-2026-0053 | Sem internet
+2026-05-08 02:58:56,861 [INFO] Chamado registrado: CH-2026-0054 | Sem internet
+2026-05-08 02:58:56,899 [INFO] Chamado registrado: CH-2026-0055 | Sem Internet
+2026-05-08 02:58:56,947 [INFO] Chamado registrado: CH-2026-0056 | Sem Internet
+2026-05-08 05:57:05,438 [INFO] Chamado registrado: CH-2026-0057 | Sem Internet
+2026-05-08 06:20:57,509 [INFO] Chamado registrado: CH-2026-0058 | não estou conseguindo imprimir
+2026-05-08 06:39:04,998 [INFO] Chamado registrado: CH-2026-0059 | Sem Internet desde 02:40.
+2026-05-08 06:45:11,126 [INFO] Chamado registrado: CH-2026-0060 | Sem Internet p/ entra no sistema
+2026-05-08 06:46:22,411 [INFO] Chamado registrado: CH-2026-0061 | Impressora de etiquetas
+2026-05-08 07:17:45,181 [INFO] Chamado registrado: CH-2026-0062 | Totem não imprime
+2026-05-08 07:22:10,108 [INFO] Chamado registrado: CH-2026-0063 | Sem internet
+2026-05-08 07:31:20,187 [INFO] Chamado registrado: CH-2026-0064 | Sem internet
+2026-05-08 07:48:39,983 [INFO] Chamado registrado: CH-2026-0065 | Sem internet
+2026-05-08 07:56:08,733 [INFO] Chamado registrado: CH-2026-0066 | Data: 07/05/2026 Solicitante: Fernando Setor: Farmacia Prior
+2026-05-08 08:01:14,711 [INFO] Chamado registrado: CH-2026-0067 | Sem internet
+2026-05-08 08:55:39,065 [INFO] Chamado registrado: CH-2026-0068 | sem internet
+2026-05-08 09:03:28,861 [INFO] Chamado registrado: CH-2026-0069 | sem internet em ALGUNS dos computadores (uns com, outros sem
+2026-05-08 12:41:48,119 [INFO] Chamado registrado: CH-2026-0070 | sem internet
+2026-05-08 12:43:19,106 [INFO] Chamado registrado: CH-2026-0071 | Trocar o toner
+2026-05-08 14:17:05,522 [INFO] Chamado registrado: CH-2026-0072 | Telefone do setor não funciona.
+2026-05-08 14:47:34,641 [INFO] Chamado registrado: CH-2026-0073 | Totem
+2026-05-08 16:30:49,960 [INFO] Chamado registrado: CH-2026-0074 | impressora sem imprimir
+2026-05-08 17:32:33,905 [INFO] Chamado registrado: CH-2026-0075 | Data: 08/05/2026 Solicitante: Jaine Setor: ala C Prioridade:
+2026-05-08 18:09:53,498 [INFO] Chamado registrado: CH-2026-0076 | Totem sem papel
+2026-05-08 21:54:12,009 [INFO] Chamado registrado: CH-2026-0077 | Totem sem papel
+2026-05-08 23:16:49,542 [INFO] Chamado registrado: CH-2026-0078 | Cadastrar profissional na recepção do PAP
+2026-05-08 23:34:08,593 [INFO] Chamado registrado: CH-2026-0079 | impressora não imprimi
+2026-05-09 07:33:42,391 [INFO] Chamado registrado: CH-2026-0080 | loguin da médica não entra.
+2026-05-09 07:34:12,680 [INFO] Chamado registrado: CH-2026-0081 | trocar teclado da sala do ECG
+2026-05-09 08:52:02,884 [INFO] Chamado registrado: CH-2026-0082 | problema com salutem
+2026-05-09 09:37:00,729 [INFO] Chamado registrado: CH-2026-0083 | impressora não funciona
+2026-05-09 10:06:43,117 [INFO] Chamado registrado: CH-2026-0084 | trocar toner da impressora da ortopedia
+2026-05-09 12:02:00,139 [INFO] Chamado registrado: CH-2026-0085 | SCANNER COM ATOLAMENTO DE PAPEL
+2026-05-09 14:11:44,115 [INFO] Chamado registrado: CH-2026-0086 | impressora do posto não está imprimindo
+2026-05-09 14:11:44,158 [INFO] Chamado registrado: CH-2026-0087 | sala do ECG sem internet
+2026-05-09 14:11:44,198 [INFO] Chamado registrado: CH-2026-0088 | Impressora não está funcionando devidamente
+2026-05-09 14:11:54,322 [INFO] Chamado registrado: CH-2026-0089 | Totem sem papel
+2026-05-09 14:55:52,995 [INFO] Chamado registrado: CH-2026-0090 | Totem sem funcionar
+2026-05-09 16:12:04,435 [INFO] Chamado registrado: CH-2026-0091 | computador sem internet
+2026-05-09 18:56:06,671 [INFO] Chamado registrado: CH-2026-0092 | problema na impressora
+2026-05-09 19:04:00,158 [INFO] Chamado registrado: CH-2026-0093 | problema na impressora desde de 17:00 segunda informação....
+2026-05-09 19:49:40,832 [INFO] Chamado registrado: CH-2026-0094 | Troca de Tonner
+2026-05-09 19:50:21,251 [INFO] Chamado registrado: CH-2026-0095 | Troca de Tonner
+2026-05-09 21:05:40,236 [INFO] Chamado registrado: CH-2026-0096 | problema na impressora
+2026-05-09 21:28:22,578 [INFO] Chamado registrado: CH-2026-0097 | problema na impressora não está imprimindo na impressora da 
+2026-05-10 07:16:41,291 [INFO] Chamado registrado: CH-2026-0098 | A Dra Gabrielly obstétrica está entrando no sistema mas não 
+2026-05-10 07:32:21,292 [INFO] Chamado registrado: CH-2026-0099 | Impressora não imprimeEditada
+2026-05-10 09:59:20,406 [INFO] Chamado registrado: CH-2026-0100 | Impressora não funciona
+2026-05-10 11:17:26,408 [INFO] Chamado registrado: CH-2026-0101 | COMPUTADOR DA MÉDICA SEM LIGAR
+2026-05-10 12:37:05,379 [INFO] Chamado registrado: CH-2026-0102 | impressora não está funcionando.
+2026-05-13 18:21:55,369 [INFO] Planilha pronta: chamados.xlsx
+2026-05-13 18:21:55,371 [INFO] Iniciando Chrome...
+2026-05-13 18:21:55,375 [INFO] Usando ChromeDriver local: C:\Users\user\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-13 18:21:58,043 [INFO] Aguardando login no WhatsApp Web...
+2026-05-13 18:22:05,474 [INFO] Login realizado com sucesso.
+2026-05-13 18:22:05,506 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-13 18:22:09,499 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-13 18:22:09,569 [INFO] Mensagens iniciais sincronizadas: 12
+2026-05-13 18:22:09,570 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-13 19:18:41,880 [INFO] Chamado registrado: CH-2026-0103 | impressora não imprime
+2026-05-13 19:18:41,918 [INFO] Chamado registrado: CH-2026-0104 | impressora não imprime
+2026-05-13 19:18:41,957 [INFO] Chamado registrado: CH-2026-0105 | totem não está imprimindo
+2026-05-13 19:18:41,998 [INFO] Chamado registrado: CH-2026-0106 | Computador sem internet
+2026-05-13 19:18:42,042 [INFO] Chamado registrado: CH-2026-0107 | impressora offline
+2026-05-13 19:18:42,083 [INFO] Chamado registrado: CH-2026-0108 | computador sem internet
+2026-05-13 19:18:42,123 [INFO] Chamado registrado: CH-2026-0109 | totem não está funcionando
+2026-05-13 19:18:42,165 [INFO] Chamado registrado: CH-2026-0110 | sala de Raios x sem internet.
+2026-05-13 19:18:42,205 [INFO] Chamado registrado: CH-2026-0111 | totem não está imprimindo
+2026-05-14 01:46:44,697 [INFO] Chamado registrado: CH-2026-0112 | computador não desliga
+2026-05-14 05:40:21,426 [INFO] Chamado registrado: CH-2026-0113 | sistema não abre
+2026-05-14 07:27:39,609 [INFO] Chamado registrado: CH-2026-0114 | Impressora não imprimindo
+2026-05-14 07:47:37,840 [INFO] Chamado registrado: CH-2026-0115 | Impressora não imprimindo
+2026-05-14 07:55:58,431 [INFO] Chamado registrado: CH-2026-0116 | Troca de teclado do computador
+2026-05-15 22:05:32,440 [INFO] Planilha pronta: chamados.xlsx
+2026-05-15 22:05:32,441 [INFO] Iniciando Chrome...
+2026-05-15 22:05:32,446 [INFO] Usando ChromeDriver local: C:\Users\user\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-15 22:05:34,933 [INFO] Aguardando login no WhatsApp Web...
+2026-05-15 22:05:44,135 [INFO] Login realizado com sucesso.
+2026-05-15 22:05:44,143 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-15 22:05:47,744 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-15 22:05:47,883 [INFO] Mensagens iniciais sincronizadas: 16
+2026-05-15 22:05:47,883 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-16 05:31:45,570 [INFO] Chamado registrado: CH-2026-0117 | Computador do Fisioterapeuta ta com a tela escura
+2026-05-16 05:50:03,420 [INFO] Chamado registrado: CH-2026-0118 | não estamos conseguindo imprimir
+2026-05-16 05:55:46,050 [INFO] Chamado registrado: CH-2026-0119 | impressora não liga
+2026-05-16 08:10:45,774 [INFO] Chamado registrado: CH-2026-0120 | impressora não imprime
+2026-05-16 08:31:34,484 [INFO] Chamado registrado: CH-2026-0121 | impressora não imprime
+2026-05-16 09:42:15,868 [INFO] Chamado registrado: CH-2026-0122 | problema o totem,não está imprimindo
+2026-05-16 11:16:40,302 [WARNING] Erro ao ler mensagens: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=148.0.7778.168); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xeeb373+10553]
+	chromedriver!GetHandleVerifier [0xeeb4a4+10684]
+	chromedriver!(No symbol) [0xcf1e10]
+	chromedriver!(No symbol) [0xcf8a3d]
+	chromedriver!(No symbol) [0xcfafad]
+	chromedriver!(No symbol) [0xd7b7a1]
+	chromedriver!(No symbol) [0xd5d86c]
+	chromedriver!(No symbol) [0xd7aa36]
+	chromedriver!(No symbol) [0xd5d606]
+	chromedriver!(No symbol) [0xd30039]
+	chromedriver!(No symbol) [0xd30df4]
+	chromedriver!GetHandleVerifier [0x116ddb4+292f94]
+	chromedriver!GetHandleVerifier [0x116937d+28e55d]
+	chromedriver!GetHandleVerifier [0x1188215+2ad3f5]
+	chromedriver!GetHandleVerifier [0xf04c18+29df8]
+	chromedriver!GetHandleVerifier [0xf0c6fd+318dd]
+	chromedriver!GetHandleVerifier [0xef3c78+18e58]
+	chromedriver!GetHandleVerifier [0xef3e42+19022]
+	chromedriver!GetHandleVerifier [0xedd45f+263f]
+	KERNEL32!BaseThreadInitThunk [0x75345d49+19]
+	ntdll!RtlInitializeExceptionChain [0x770bd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x770bd7c1+231]
+
+2026-05-16 11:16:50,464 [INFO] Chamado registrado: CH-2026-0123 | computador travou
+2026-05-16 11:33:07,665 [INFO] Chamado registrado: CH-2026-0124 | totem sem emitir senha
+2026-05-16 14:06:15,566 [INFO] Chamado registrado: CH-2026-0125 | Tela do pc invertida
+2026-05-16 14:28:15,345 [INFO] Chamado registrado: CH-2026-0126 | Impressora não imprimi
+2026-05-16 14:36:39,419 [INFO] Chamado registrado: CH-2026-0127 | impressora com defeito
+2026-05-16 15:43:40,055 [INFO] Chamado registrado: CH-2026-0128 | impressora não imprimi as pulseiras
+2026-05-16 16:59:35,567 [INFO] Chamado registrado: CH-2026-0129 | impressora não imprimi as pulseiras
+2026-05-16 18:54:27,166 [INFO] Chamado registrado: CH-2026-0130 | computador sem ligar
+2026-05-16 20:55:43,896 [INFO] Chamado registrado: CH-2026-0131 | computador não está imprimindo
+2026-05-17 07:38:30,075 [INFO] Chamado registrado: CH-2026-0132 | Impressora
+2026-05-17 08:16:17,603 [INFO] Chamado registrado: CH-2026-0133 | pc não imprime
+2026-05-17 09:34:24,262 [INFO] Chamado registrado: CH-2026-0134 | impressora de pulseira
+2026-05-17 11:01:47,277 [INFO] Chamado registrado: CH-2026-0135 | trocar teclado do computador
+2026-05-17 11:04:28,576 [INFO] Chamado registrado: CH-2026-0136 | Totem sem imprimir senha
+2026-05-17 13:09:07,134 [INFO] Planilha pronta: chamados.xlsx
+2026-05-17 13:09:07,135 [INFO] Iniciando Chrome...
+2026-05-17 13:09:07,141 [INFO] Usando ChromeDriver local: C:\Users\user\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32\chromedriver.exe
+2026-05-17 13:09:09,719 [INFO] Aguardando login no WhatsApp Web...
+2026-05-17 13:09:17,303 [INFO] Login realizado com sucesso.
+2026-05-17 13:09:17,313 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-17 13:09:21,829 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-17 13:09:21,920 [INFO] Mensagens iniciais sincronizadas: 17
+2026-05-17 13:09:21,920 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-17 15:01:28,235 [INFO] Chamado registrado: CH-2026-0137 | computador sem imprimir
+2026-05-17 15:31:53,313 [INFO] Chamado registrado: CH-2026-0138 | impressora n imprime
+2026-05-17 16:07:20,234 [INFO] Chamado registrado: CH-2026-0139 | totem sem imprimir
+2026-05-17 16:16:01,392 [INFO] Planilha pronta: chamados.xlsx
+2026-05-17 16:16:01,394 [INFO] Iniciando Chrome...
+2026-05-17 16:16:01,412 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32\chromedriver.exe
+2026-05-17 16:16:03,932 [INFO] Aguardando login no WhatsApp Web...
+2026-05-17 16:16:58,295 [INFO] Login realizado com sucesso.
+2026-05-17 16:16:58,295 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-17 16:17:03,695 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-17 16:17:04,071 [INFO] Mensagens iniciais sincronizadas: 8
+2026-05-17 16:17:04,071 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
+2026-05-17 16:17:45,695 [ERROR] Erro no loop principal: [Errno 13] Permission denied: 'chamados.xlsx'
+2026-05-17 16:18:01,912 [ERROR] Erro no loop principal: [Errno 13] Permission denied: 'chamados.xlsx'
+2026-05-17 16:24:53,336 [INFO] Planilha pronta: chamados.xlsx
+2026-05-17 16:24:53,337 [INFO] Iniciando Chrome...
+2026-05-17 16:24:53,352 [INFO] Usando ChromeDriver local: C:\Users\Lenovo\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32\chromedriver.exe
+2026-05-17 16:24:55,164 [INFO] Aguardando login no WhatsApp Web...
+2026-05-17 16:25:02,371 [INFO] Login realizado com sucesso.
+2026-05-17 16:25:02,371 [INFO] Abrindo grupo: 🟣 CHAMADOS T.I HRJL
+2026-05-17 16:25:06,908 [INFO] Grupo '🟣 CHAMADOS T.I HRJL' aberto.
+2026-05-17 16:25:07,054 [INFO] Mensagens iniciais sincronizadas: 15
+2026-05-17 16:25:07,054 [INFO] Monitorando grupo '🟣 CHAMADOS T.I HRJL' a cada 10s. Use Ctrl+C para parar.
